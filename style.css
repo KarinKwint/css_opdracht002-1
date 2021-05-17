@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#blue-background {
+    background-color: lightblue;
+}
+.yellow-border {
+    border: 10px solid lightyellow
+}
+#gray-background {
+    background-color: lightgray;
+}
+.ol {
+    font-size: small;
+    font-stretch: wider;
+}
+.h1 {
+    text-align: center;
+}
+.h1 {
+    color:seagreen
+}
+.ul {
+    color:slateblue
+}
+.ul {
+    font-style: italic;
+}
+.footer {
+    font-style: oblique;
+}
+.footer {
+    color:sienna
+}
+.footer {
+    font-size: x-small
+}
+.section {
+    font-weight:bolder;
+}
+.section {
+    color:olivedrab;
+}
+.section {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.aside {
+    font-family: fantasy;
+}
